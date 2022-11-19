@@ -1,0 +1,10 @@
+##FUNCIONALIDADES
+
+#1.- VENTAS.
+#2.- Registro de cada vendedor.
+#3.- Sueldo a pagar.
+#4.- Visualización de los tres trabajadores que más vendieron y de los 3 trabajadores que menos vendieron.
+#5.- Consultas.
+#6.- Ingreso de un vendedor.
+#7.- Despido de un vendedor.
+#8.- Salir.
